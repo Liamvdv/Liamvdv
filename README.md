@@ -1,0 +1,4 @@
+- 👋 Hi, I’m @Liamvdv
+- 👀 I’m interested in distributed systems.
+- 🌱 I’m currently learning for my final school exams.
+- 🚀 I like Go, Python and JavaScript.
