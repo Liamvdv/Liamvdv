@@ -6,7 +6,7 @@ I'm obsessed with <strong>software</strong> and <strong>business</strong> 🚀. 
 
 <div align="center">
     <p>
-    <code>sw := func</code><br>
+        <code>sw := func</code>
     Design the interface. Implement the details.
     </p>
     <a href="https://www.linkedin.com/in/liam-van-der-viven-291837204/">
@@ -16,8 +16,8 @@ I'm obsessed with <strong>software</strong> and <strong>business</strong> 🚀. 
         <img src="https://img.shields.io/badge/-liam.vanderviven@gmx.de-gray?style=flat-square&logo=email&logoColor=white&link=mailto:liam.vanderviven@gmx.de" />
     </a>
     <br>
-    
-## Used in SWE
+
+### For SWE
 ![Go](https://img.shields.io/badge/-Go-white?style=flat-square&logo=go)  
 ![FastAPI](https://img.shields.io/badge/-FastAPI-black?style=flat-square&logo=fastapi)
 ![Python](https://img.shields.io/badge/-Python-white?style=flat-square&logo=python)
@@ -40,7 +40,7 @@ I'm obsessed with <strong>software</strong> and <strong>business</strong> 🚀. 
 ![Manjaro](https://img.shields.io/badge/-Linux-black?style=flat-square&logo=archlinux)
 ![Windows](https://img.shields.io/badge/Windows-black?style=flat-square&logo=windows)
 
-### Used in EDU
+#### Used in EDU
 ![C](https://img.shields.io/badge/-C-white?style=flat-square&logo=c)
 ![Java](https://img.shields.io/badge/-Java-white?style=flat-square&logo=java&logoColor=red)
 
