@@ -12,8 +12,8 @@ I'm obsessed with <strong>software</strong> and <strong>business</strong> 🚀. 
     <a href="https://www.linkedin.com/in/liam-van-der-viven-291837204/">
         <img src="https://img.shields.io/badge/-liamvdv-blue?style=flat-square&logo=Linkedin&logoColor=white&https://www.linkedin.com/in/liam-van-der-viven-291837204/" />
     </a>
-    <a href="mailto:liam.vanderviven@gmx.de">
-        <img src="https://img.shields.io/badge/-liam.vanderviven@gmx.de-gray?style=flat-square&logo=email&logoColor=white&link=mailto:liam.vanderviven@gmx.de" />
+    <a href="mailto:liam@vanderviven.com">
+        <img src="https://img.shields.io/badge/-liam@vanderviven.com-gray?style=flat-square&logo=email&logoColor=white&link=mailto:liam.vanderviven@gmx.de" />
     </a>
     <br>
 
