@@ -9,8 +9,8 @@ I'm obsessed with <strong>software</strong> and <strong>business</strong> 🚀. 
         <code>sw := func</code>
     Design the interface. Implement the details.
     </p>
-    <a href="https://www.linkedin.com/in/liam-van-der-viven-291837204/">
-        <img src="https://img.shields.io/badge/-liamvdv-blue?style=flat-square&logo=Linkedin&logoColor=white&https://www.linkedin.com/in/liam-van-der-viven-291837204/" />
+    <a href="https://www.linkedin.com/in/liamvdv/">
+        <img src="https://img.shields.io/badge/-Liam%20van%20der%20Viven-blue?style=flat-square&logo=Linkedin&logoColor=white&https://www.linkedin.com/in/liamvdv/" />
     </a>
     <a href="mailto:liam@vanderviven.com">
         <img src="https://img.shields.io/badge/-liam@vanderviven.com-gray?style=flat-square&logo=email&logoColor=white&link=mailto:liam.vanderviven@gmx.de" />
