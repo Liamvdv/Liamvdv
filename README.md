@@ -1,8 +1,9 @@
 <h2 align="center">👋Hello, I'm Liam van der Viven</h2>
 <p align="center">
 I'm obsessed with <strong>software</strong> and <strong>business</strong> 🚀. I enjoy learning and building stuff👨‍💻. <br>
-<strong>IT-Systems Engineering Student</strong> (B. Sc.) @ <a href="https://hpi.de">Hasso Plattner Institute</a> <br> 
-<strong>Working Student </strong> @ <a href="https://github.com/aws">Amazon Web Services</a>
+<strong>Co-Founder & CTO @ <a href="https://botbrains.io">botBrains.io</a></strong> <br>
+<strong>IT-Systems Engineering Student</strong> (B. Sc.) @ <a href="https://hpi.de">Hasso Plattner Institute</a> <br>
+<strong>ex-AWS </strong>
 </p>
 
 <div align="center">
@@ -23,12 +24,12 @@ I'm obsessed with <strong>software</strong> and <strong>business</strong> 🚀. 
 ![FastAPI](https://img.shields.io/badge/-FastAPI-black?style=flat-square&logo=fastapi)
 ![Python](https://img.shields.io/badge/-Python-white?style=flat-square&logo=python)
 ![Flask](https://img.shields.io/badge/-Flask-black?style=flat-square&logo=flask)  
-![Vue](https://img.shields.io/badge/-Vue-black?style=flat-square&logo=vuedotjs)
 ![JavaScript](https://img.shields.io/badge/-JavaScript-white?style=flat-square&logo=javascript)
 ![Nodejs](https://img.shields.io/badge/-Nodejs-white?style=flat-square&logo=Node.js)
 ![Express](https://img.shields.io/badge/-Express-black?style=flat-square&logo=express)  
 ![React](https://img.shields.io/badge/-React-black?style=flat-square&logo=react)
-![TypeScript](https://img.shields.io/badge/-TypeScript-white?style=flat-square&logo=typescript)  
+![TypeScript](https://img.shields.io/badge/-TypeScript-white?style=flat-square&logo=typescript)
+![Next](https://img.shields.io/badge/next.js-000000?style=flat-square&logo=nextdotjs&logoColor=white)  
 ![HTML5](https://img.shields.io/badge/-HTML5-black?style=flat-square&logo=html5)
 ![CSS3](https://img.shields.io/badge/-CSS3-black?style=flat-square&logo=css3&logoColor=blue)
 ![Tailwind](https://img.shields.io/badge/-Tailwind%20CSS-black?style=flat-square&logo=tailwindcss) 
@@ -37,15 +38,11 @@ I'm obsessed with <strong>software</strong> and <strong>business</strong> 🚀. 
 ![DynamoDB](https://img.shields.io/badge/-DynamoDB-black?style=flat-square&logo=amazondynamodb&logoColor=yellow)
 ![Redis](https://img.shields.io/badge/-Redis-black?style=flat-square&logo=Redis)
 
-![AWS](https://img.shields.io/badge/Amazon%20Web%20Services-black?style=flat-square&logo=amazonaws)
-![Google Cloud](https://img.shields.io/badge/Google%20Cloud-black?style=flat-square&logo=google-cloud)
-![Firebase](https://img.shields.io/badge/Firebase-black?style=flat-square&logo=firebase)  
+![AWS](https://img.shields.io/badge/Amazon%20Web%20Services-black?style=flat-square&logo=amazonaws) 
 ![Git](https://img.shields.io/badge/-Git-black?style=flat-square&logo=git)
 ![GitHub](https://img.shields.io/badge/-GitHub-black?style=flat-square&logo=github)
 
-![Manjaro](https://img.shields.io/badge/-Arch/Debian-black?style=flat-square&logo=archlinux)
 ![MacOs](https://img.shields.io/badge/MacOS-black?style=flat-square&logo=apple)
-![WSL](https://img.shields.io/badge/WSL-black?style=flat-square&logo=windows)
 
 #### Used in EDU
 ![C](https://img.shields.io/badge/-C-white?style=flat-square&logo=c)
