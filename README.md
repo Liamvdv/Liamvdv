@@ -11,45 +11,50 @@ I'm obsessed with <strong>software</strong> and <strong>business</strong> 🚀. 
         <code>sw := func</code>
     Design the interface. Implement the details.
     </p>
-    <a href="https://www.linkedin.com/in/liamvdv/">
-        <img src="https://img.shields.io/badge/-Liam%20van%20der%20Viven-blue?style=flat-square&logo=Linkedin&logoColor=white" />
-    </a>
-    <a href="mailto:liam@vanderviven.com">
-        <img src="https://img.shields.io/badge/-liam@vanderviven.com-gray?style=flat-square&logo=gmail&logoColor=white" />
-    </a>
-    <br>
+
+[![LinkedIn](https://img.shields.io/static/v1?style=for-the-badge&message=Liam%20van%20der%20Viven&color=0A66C2&logo=LinkedIn&logoColor=FFFFFF&label=)](https://www.linkedin.com/in/liamvdv/)
+[![Website](https://img.shields.io/static/v1?style=for-the-badge&message=liamv.dev&color=1D439C&logo=Boeing&logoColor=FFFFFF&label=)](https://liamv.dev)
+[![Gmail](https://img.shields.io/static/v1?style=for-the-badge&message=liam@vanderviven.com&color=EA4335&logo=Gmail&logoColor=FFFFFF&label=)](mailto:liam@vanderviven.com)
 
 ### For SWE
-![Go](https://img.shields.io/badge/-Go-white?style=flat-square&logo=go)  
-![FastAPI](https://img.shields.io/badge/-FastAPI-black?style=flat-square&logo=fastapi)
-![Python](https://img.shields.io/badge/-Python-white?style=flat-square&logo=python)
-![Flask](https://img.shields.io/badge/-Flask-black?style=flat-square&logo=flask)  
-![JavaScript](https://img.shields.io/badge/-JavaScript-white?style=flat-square&logo=javascript)
-![Nodejs](https://img.shields.io/badge/-Nodejs-white?style=flat-square&logo=Node.js)
-![Express](https://img.shields.io/badge/-Express-black?style=flat-square&logo=express)  
-![React](https://img.shields.io/badge/-React-black?style=flat-square&logo=react)
-![TypeScript](https://img.shields.io/badge/-TypeScript-white?style=flat-square&logo=typescript)
-![Next](https://img.shields.io/badge/next.js-000000?style=flat-square&logo=nextdotjs&logoColor=white)  
-![HTML5](https://img.shields.io/badge/-HTML5-black?style=flat-square&logo=html5)
-![CSS3](https://img.shields.io/badge/-CSS3-black?style=flat-square&logo=css3&logoColor=blue)
-![Tailwind](https://img.shields.io/badge/-Tailwind%20CSS-black?style=flat-square&logo=tailwindcss) 
+![Go](https://img.shields.io/static/v1?style=for-the-badge&message=Go&color=00ADD8&logo=Go&logoColor=FFFFFF&label=)  
+![FastAPI](https://img.shields.io/static/v1?style=for-the-badge&message=FastAPI&color=37814A&logo=fastapi&logoColor=FFFFFF&label=)
+![Python](https://img.shields.io/static/v1?style=for-the-badge&message=Python&color=3776AB&logo=Python&logoColor=FFFFFF&label=)
+![Celery](https://img.shields.io/static/v1?style=for-the-badge&message=Celery&color=37814A&logo=Celery&logoColor=FFFFFF&label=)  
+![React](https://img.shields.io/static/v1?style=for-the-badge&message=React&color=222222&logo=React&logoColor=61DAFB&label=)
+![TypeScript](https://img.shields.io/static/v1?style=for-the-badge&message=TypeScript&color=3178C6&logo=TypeScript&logoColor=FFFFFF&label=)
+![Next.js](https://img.shields.io/static/v1?style=for-the-badge&message=Next.js&color=000000&logo=Next.js&logoColor=FFFFFF&label=)
 
-![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-black?style=flat-square&logo=postgresql)
-![DynamoDB](https://img.shields.io/badge/-DynamoDB-black?style=flat-square&logo=amazondynamodb&logoColor=yellow)
-![Redis](https://img.shields.io/badge/-Redis-black?style=flat-square&logo=Redis)
 
-![AWS](https://img.shields.io/badge/Amazon%20Web%20Services-black?style=flat-square&logo=amazonaws) 
-![Git](https://img.shields.io/badge/-Git-black?style=flat-square&logo=git)
-![GitHub](https://img.shields.io/badge/-GitHub-black?style=flat-square&logo=github)
+![HTML5](https://img.shields.io/static/v1?style=for-the-badge&message=HTML5&color=E34F26&logo=HTML5&logoColor=FFFFFF&label=)
+![Tailwind](https://img.shields.io/static/v1?style=for-the-badge&message=Tailwind+CSS&color=222222&logo=Tailwind+CSS&logoColor=06B6D4&label=)
 
-![MacOs](https://img.shields.io/badge/MacOS-black?style=flat-square&logo=apple)
+![PostgreSQL](https://img.shields.io/static/v1?style=for-the-badge&message=PostgreSQL&color=4169E1&logo=PostgreSQL&logoColor=FFFFFF&label=)
+![Amazon DynamoDB](https://img.shields.io/static/v1?style=for-the-badge&message=Amazon+DynamoDB&color=4053D6&logo=Amazon+DynamoDB&logoColor=FFFFFF&label=)
+![Redis](https://img.shields.io/static/v1?style=for-the-badge&message=Redis&color=DC382D&logo=Redis&logoColor=FFFFFF&label=)
+![Amazon S3](https://img.shields.io/static/v1?style=for-the-badge&message=Amazon+S3&color=569A31&logo=Amazon+S3&logoColor=FFFFFF&label=)
+
+![Amazon AWS](https://img.shields.io/static/v1?style=for-the-badge&message=Amazon+AWS&color=232F3E&logo=Amazon+AWS&logoColor=FFFFFF&label=)
+![Hetzner](https://img.shields.io/static/v1?style=for-the-badge&message=Hetzner&color=D50C2D&logo=Hetzner&logoColor=FFFFFF&label=)
+![DigitalOcean](https://img.shields.io/static/v1?style=for-the-badge&message=DigitalOcean&color=0080FF&logo=DigitalOcean&logoColor=FFFFFF&label=)
+
+![Git](https://img.shields.io/static/v1?style=for-the-badge&message=Git&color=F05032&logo=Git&logoColor=FFFFFF&label=)
+![GitHub Actions](https://img.shields.io/static/v1?style=for-the-badge&message=GitHub+Actions&color=2088FF&logo=GitHub+Actions&logoColor=FFFFFF&label=)
+![Docker](https://img.shields.io/static/v1?style=for-the-badge&message=Docker&color=2496ED&logo=Docker&logoColor=FFFFFF&label=)
+
+![Datadog](https://img.shields.io/static/v1?style=for-the-badge&message=Datadog&color=632CA6&logo=Datadog&logoColor=FFFFFF&label=)
+
+![macOS](https://img.shields.io/static/v1?style=for-the-badge&message=macOS&color=000000&logo=macOS&logoColor=FFFFFF&label=)
+![Linux](https://img.shields.io/static/v1?style=for-the-badge&message=Linux&color=222222&logo=Linux&logoColor=FCC624&label=)
 
 #### Used in EDU
-![C](https://img.shields.io/badge/-C-white?style=flat-square&logo=c)
-![C++](https://img.shields.io/badge/-C++-white?style=flat-square&logo=cplusplus&logoColor=blue)
+![RISC-V](https://img.shields.io/static/v1?style=for-the-badge&message=RISC-V&color=283272&logo=RISC-V&logoColor=FFFFFF&label=)
+![C](https://img.shields.io/static/v1?style=for-the-badge&message=C&color=222222&logo=C&logoColor=A8B9CC&label=)
+![C++](https://img.shields.io/static/v1?style=for-the-badge&message=C%2B%2B&color=00599C&logo=C%2B%2B&logoColor=FFFFFF&label=)
 ![Java](https://img.shields.io/badge/-Java-white?style=flat-square&logo=java&logoColor=red)
-
 
 <img height="140em" src="https://github-readme-stats.vercel.app/api?username=liamvdv&count_private=true&show_icons=true&include_all_commits=true" />
 <img height="140em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=liamvdv&layout=compact" />
 </div>
+
+[.](https://raw.githubusercontent.com/progfay/shields-with-icon/master/README.md)
